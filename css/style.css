@@ -402,6 +402,8 @@ a.navbar-brand:hover {
 	margin: 0;
 	border-radius: 5px;
 }
+
+
 .slider-top{
 	text-align: center;
 	padding:10em 0;
@@ -1026,6 +1028,10 @@ h3.ghj{
   font-size: 14px;
   line-height:1.8em;
 }
+.result-show h3{
+	text-align: center;
+	margin-top: 200px;
+}
 .log p{
   color:#999;
   margin:22px 0;
@@ -1153,13 +1159,14 @@ h3.ghj{
 	min-height:200px;
 	}
 .contact-left{
+	text-align: center;
 	float:left;
 	width:50%;
 	}
-.contact-left iframe{
-	width:100%;
-	height:344px;
-	margin: 0 0 -5px;
+.contact-left img{
+	width:50%;
+	height:50%;
+	margin: 50px 0 -5px;
 	}
 .contact-right{
 	float:right;
