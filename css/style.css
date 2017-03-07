@@ -1377,21 +1377,21 @@ h3.ghj {
     padding: 3em 2em;
 }
 
-.contact-right p.phn {
+.contact-right p.wechat {
     color: #C34C21;
     font-size: 2.6em;
     font-weight: 800;
     margin: 0 0 .5em;
 }
 
-p.phn-bottom {
+p.wechat-bottom {
     color: #47443A;
     font-size: 1.5em;
     margin: 0 0 1em;
     font-family: LobsterTwo-Regular;
 }
 
-p.phn-bottom span {
+p.wechat-bottom span {
     display: block;
     font-weight: 600;
 }
@@ -2105,11 +2105,11 @@ p.lom {
         min-height: 2210px;
     }
 
-    .contact-right p.phn {
+    .contact-right p.wechat {
         font-size: 2em;
     }
 
-    p.phn-bottom {
+    p.wechat-bottom {
         font-size: 1.46em;
     }
 
@@ -2583,6 +2583,7 @@ p.lom {
 
     .in-left input[type="text"]:nth-child(2) {
         margin: 1.5em 0;
+
     }
 
     .contact-right1 h4 {
@@ -2792,11 +2793,11 @@ p.lom {
         font-size: 14px;
     }
 
-    p.phn-bottom {
+    p.wechat-bottom {
         font-size: 1em;
     }
 
-    .contact-right p.phn {
+    .contact-right p.wechat {
         font-size: 1.6em;
     }
 
@@ -3201,7 +3202,7 @@ p.lom {
         width: 100%;
     }
 
-    .contact-right p.phn {
+    .contact-right p.wechat {
         font-size: 1.3em;
     }
 
