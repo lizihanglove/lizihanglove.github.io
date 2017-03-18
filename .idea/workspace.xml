@@ -25,12 +25,12 @@
     <favorites_list name="lizihanglove.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="blogs.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blogs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="106" column="37" selection-start-line="106" selection-start-column="37" selection-end-line="106" selection-end-column="37" />
+            <state relative-caret-position="186">
+              <caret line="105" column="50" selection-start-line="105" selection-start-column="50" selection-end-line="105" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -148,9 +148,9 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -552,6 +552,8 @@
       <workItem from="1488874424438" duration="13774000" />
       <workItem from="1489130000418" duration="3346000" />
       <workItem from="1489762013473" duration="1511000" />
+      <workItem from="1489835128677" duration="491000" />
+      <workItem from="1489855372637" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="update home page of website">
       <created>1488382111096</created>
@@ -564,10 +566,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42252000" />
+    <option name="totallyTimeSpent" value="43068000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -672,7 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1380">
           <caret line="69" column="70" selection-start-line="69" selection-start-column="70" selection-end-line="69" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -941,7 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-200">
           <caret line="77" column="33" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -968,8 +968,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blogs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="106" column="37" selection-start-line="106" selection-start-column="37" selection-end-line="106" selection-end-column="37" />
+        <state relative-caret-position="186">
+          <caret line="105" column="50" selection-start-line="105" selection-start-column="50" selection-end-line="105" selection-end-column="50" />
           <folding />
         </state>
       </provider>
