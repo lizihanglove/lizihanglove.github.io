@@ -670,7 +670,8 @@ a.sint:before {
 
 .blog-right {
     float: right;
-    width: 30%;
+    width: 50%;
+    display: inline;
 }
 
 .blog-left-grid-left {
@@ -2236,8 +2237,8 @@ p.lom {
     }
 
     .blog-left, .blog-right {
-        float: none;
-        width: 100%;
+        float: left;
+        display: inline;
     }
 
     .blog-left-grid-left {
@@ -3283,4 +3284,8 @@ p.lom {
     .login-grids {
         padding: 1.5em 0 0;
     }
+
+    .div-inline{
+        float: left ;
+        display:inline}
 }	
