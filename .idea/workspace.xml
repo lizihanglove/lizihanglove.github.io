@@ -29,8 +29,8 @@
       <file leaf-file-name="blogs.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blogs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="127" column="56" selection-start-line="127" selection-start-column="56" selection-end-line="127" selection-end-column="56" />
+            <state relative-caret-position="232">
+              <caret line="118" column="13" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -551,7 +551,7 @@
       <workItem from="1490373200412" duration="827000" />
       <workItem from="1490538187397" duration="2174000" />
       <workItem from="1494508991139" duration="1048000" />
-      <workItem from="1494746132995" duration="738000" />
+      <workItem from="1494746132995" duration="850000" />
     </task>
     <task id="LOCAL-00001" summary="update home page of website">
       <created>1488382111096</created>
@@ -595,11 +595,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494509548382</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update blog page of the website">
+      <created>1494747201873</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1494747201873</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50237000" />
+    <option name="totallyTimeSpent" value="50349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
@@ -1004,8 +1011,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blogs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="127" column="56" selection-start-line="127" selection-start-column="56" selection-end-line="127" selection-end-column="56" />
+        <state relative-caret-position="232">
+          <caret line="118" column="13" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
           <folding />
         </state>
       </provider>
