@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="320d5fde-af52-4689-b9b5-4c1f91c184ef" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blogs.html" afterPath="$PROJECT_DIR$/blogs.html" />
     </list>
     <list id="1449e0de-1bcc-454d-81f0-07bf66eb51cf" name="Rejected commit: Default" comment="update home page of website" />
     <ignored path="lizihanglove.github.io.iws" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="blogs.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blogs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
+            <state relative-caret-position="52">
               <caret line="118" column="13" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
               <folding />
             </state>
@@ -551,7 +550,7 @@
       <workItem from="1490373200412" duration="827000" />
       <workItem from="1490538187397" duration="2174000" />
       <workItem from="1494508991139" duration="1048000" />
-      <workItem from="1494746132995" duration="850000" />
+      <workItem from="1494746132995" duration="862000" />
     </task>
     <task id="LOCAL-00001" summary="update home page of website">
       <created>1488382111096</created>
@@ -602,11 +601,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494747201873</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update blog page of the website">
+      <created>1494747307760</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1494747307760</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50349000" />
+    <option name="totallyTimeSpent" value="50361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
@@ -1011,7 +1017,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blogs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
+        <state relative-caret-position="52">
           <caret line="118" column="13" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
           <folding />
         </state>
