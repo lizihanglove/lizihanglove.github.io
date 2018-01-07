@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>首页</title>
+    <script src="../js/jquery-3.2.1.js"></script>
+    <script src="../js/common.js"></script>
+    <link rel="bookmark" type="image/x-icon" href="../images/icon.ico"/>
+    <link rel="shortcut icon" href="../images/icon.ico">
+    <link rel="icon" href="../images/icon.ico">
+    <link href="../css/base.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="../css/home.css" rel="stylesheet" type="text/css" media="all"/>
+</head>
+<body>
+<div class="base-title">
+    <strong>O</strong>ne_mighty
+</div>
+<div class="base-navigation">
+    <div class="navigation-item" id="home"><span>主页</span></div>
+    <div class="navigation-item" id="archive"><span>归档</span></div>
+    <div class="navigation-item" id="about"><span>关于</span></div>
+</div>
+<div class="home-container">
+    <div class="container-item" id="blogs">
+        <div class="container-item-card">Android博客</div>
+    </div>
+    <div class="container-item" id="translations">
+        <div class="container-item-card">翻译博客</div>
+    </div>
+    <div class="container-item" id="applications">
+        <div class="container-item-card">开发应用</div>
+    </div>
+    <div class="container-item" id="additional">
+        <div class="container-item-card">其他</div>
+    </div>
+</div>
+<div class="base-footer">
+    <p>© 2017 One_mighty. All rights reserved | Design by <a title="website" href="http://www.lizihanglove.website">
+        lizihanglove</a></p>
+</div>
+
+<script>
+    $(".container-item").mouseover(function () {
+        $(this).css("background", theme_green);
+    }).mouseleave(function () {
+        $(this).css("background", theme_blue);
+    });
+    $(".navigation-item").mouseover(function () {
+        $(this).css("background", theme_blue);
+    }).mouseleave(function () {
+        $(this).css("background", theme_black);
+    });
+
+    $("#blogs").click(function () {
+        window.open("blog-one.html", "_self");
+    });
+    $("#translations").click(function () {
+        window.open("translations.html", "_self");
+    });
+    $("#applications").click(function () {
+        window.open("applications.html", "_self");
+    });
+    $("#additional").click(function () {
+        window.open("additional.html", "_self");
+    });
+    $("#home").click(function () {
+        window.open("home.html", "_self");
+    });
+    $("#archive").click(function () {
+        window.open("archive.html", "_self");
+    });
+    $("#about").click(function () {
+        window.open("about.html", "_self");
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+.blog-column{
+    float: left;
+    text-align: center;
+}
+.blog-container {
+    background: #eeeeee;
+    height: 900px;
+}
+
+.blog-item {
+    float: left;
+    width: 50%;
+    background: whitesmoke;
+}

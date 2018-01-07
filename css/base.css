@@ -1,0 +1,86 @@
+/*html样式*/
+html {
+    background: #dadcdb;
+}
+
+/*body样式*/
+body {
+    align-content: center;
+    margin: 10px auto;
+    width: 80%;
+}
+
+a:link {
+    text-decoration: none;
+    color: #0b90aa;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #403e4e;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #c9302c;
+}
+
+a:active {
+    text-decoration: none;
+    color: #11cd86;
+}
+
+.base-title {
+    font-size: xx-large;
+    text-align: center;
+    color: #0b90aa;
+}
+
+/*导航栏样式*/
+.base-navigation {
+    background-color: #403e4e;
+    width: 100%;
+    padding-top: 30px;
+    margin-top: 10px;
+    height: 60px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+/*导航栏条目样式*/
+.navigation-item {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    color: #eeeeee;
+    font-size: larger;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+/*主内容界面条目样式*/
+.container-item {
+    border-radius: 5px;
+    width: 40%;
+    height: 40%;
+    text-align: center;
+    display: inline-block;
+    margin-top: 10px;
+    padding-top: 10px;
+    background: #0b90aa;
+}
+
+.container-item-card {
+    width: 100%;
+    color: #eeeeee;
+}
+
+.base-footer {
+    height: 80px;
+    padding-top: 30px;
+    background: #c9302c;
+    text-align: center;
+    color: #eeeeee;
+    border-radius: 10px;
+}
+
