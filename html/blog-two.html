@@ -21,13 +21,17 @@
     <div class="navigation-item"><span>关于</span></div>
 </div>
 <div class="blog-container">
-    <div class="blog-column">
-        <ul>
-            <li><h4><a href="http://www.jianshu.com/p/f77f5a466a7f">Android中RxPermissions的使用</a></h4></li>
-            <li><h4><a href="http://www.jianshu.com/p/a448917ab992">Kotlin学习资源合集</a></h4></li>
-            <li><h4><a href="http://www.jianshu.com/p/0f88f6d55830">神一样的插件</a></h4></li>
-            <li><h4><a href="http://www.jianshu.com/p/f269bcb9131f">IntelliJ IDEA激活方法</a></h4></li>
-        </ul>
+    <div class="blog-item">
+        <a href="http://www.jianshu.com/p/f77f5a466a7f">Android中RxPermissions的使用</a>
+    </div>
+    <div class="blog-item">
+        <a href="http://www.jianshu.com/p/a448917ab992">Kotlin学习资源合集</a>
+    </div>
+    <div class="blog-item">
+        <a href="http://www.jianshu.com/p/0f88f6d55830">神一样的插件</a>
+    </div>
+    <div class="blog-item">
+        <a href="http://www.jianshu.com/p/f269bcb9131f">IntelliJ IDEA激活方法</a>
     </div>
 </div>
 <div class="base-footer">
@@ -35,8 +39,10 @@
         lizihanglove</a></p>
 </div>
 
-<script>
 
+<script>
+    var containerHeight = window.document.body.clientHeight;
+    $(".blog-container").css("height", containerHeight);
 </script>
 </body>
 </html>
