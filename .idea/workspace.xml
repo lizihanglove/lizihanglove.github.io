@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df0104cc-c506-4892-a2f7-0f1d341de5a6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/blog-three.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/base.css" afterPath="$PROJECT_DIR$/css/base.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/blog.css" afterPath="$PROJECT_DIR$/css/blog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/blog-one.html" afterPath="$PROJECT_DIR$/html/blog-one.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/blog-two.html" afterPath="$PROJECT_DIR$/html/blog-two.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,8 +19,8 @@
       <file leaf-file-name="blog-one.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/blog-one.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="146" column="0" lean-forward="true" selection-start-line="146" selection-start-column="0" selection-end-line="150" selection-end-column="9" />
+            <state relative-caret-position="189">
+              <caret line="138" column="65" lean-forward="false" selection-start-line="138" selection-start-column="65" selection-end-line="138" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -71,8 +69,8 @@
       <file leaf-file-name="blog-two.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/blog-two.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="988">
+              <caret line="52" column="10" lean-forward="true" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -141,9 +139,10 @@
         <option value="$PROJECT_DIR$/html/home.html" />
         <option value="$PROJECT_DIR$/html/about.html" />
         <option value="$PROJECT_DIR$/html/archive.html" />
-        <option value="$PROJECT_DIR$/html/blog-one.html" />
         <option value="$PROJECT_DIR$/css/base.css" />
         <option value="$PROJECT_DIR$/css/blog.css" />
+        <option value="$PROJECT_DIR$/html/blog-one.html" />
+        <option value="$PROJECT_DIR$/html/blog-three.html" />
         <option value="$PROJECT_DIR$/html/blog-two.html" />
       </list>
     </option>
@@ -330,7 +329,7 @@
       <option name="presentableId" value="Default" />
       <updated>1510670734764</updated>
       <workItem from="1510670766559" duration="683000" />
-      <workItem from="1515256247306" duration="28197000" />
+      <workItem from="1515256247306" duration="31439000" />
     </task>
     <task id="LOCAL-00001" summary="commit update pages for partner and page.">
       <created>1515257191335</created>
@@ -346,11 +345,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515343435026</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit rebuild blog pages.">
+      <created>1515417832219</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1515417832219</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28880000" />
+    <option name="totallyTimeSpent" value="32122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="698" extended-state="0" />
@@ -394,7 +400,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit update pages for partner and page." />
     <MESSAGE value="commit rebuild pages." />
-    <option name="LAST_COMMIT_MESSAGE" value="commit rebuild pages." />
+    <MESSAGE value="commit rebuild blog pages." />
+    <option name="LAST_COMMIT_MESSAGE" value="commit rebuild blog pages." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -791,16 +798,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/blog-one.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="146" column="0" lean-forward="true" selection-start-line="146" selection-start-column="0" selection-end-line="150" selection-end-column="9" />
+        <state relative-caret-position="189">
+          <caret line="138" column="65" lean-forward="false" selection-start-line="138" selection-start-column="65" selection-end-line="138" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/blog-three.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/blog-two.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="988">
+          <caret line="52" column="10" lean-forward="true" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
           <folding />
         </state>
       </provider>
