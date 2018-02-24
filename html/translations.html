@@ -2,9 +2,40 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>翻译</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>博客</title>
+    <script src="../js/jquery-3.2.1.js"></script>
+    <link rel="bookmark" type="image/x-icon" href="../images/icon.ico"/>
+    <link rel="shortcut icon" href="../images/icon.ico">
+    <link rel="icon" href="../images/icon.ico">
+    <link href="../css/translations.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="../css/base.css" rel="stylesheet" type="text/css" media="all"/>
 </head>
 <body>
+<div class="base-title">
+    <strong>O</strong>ne_mighty
+</div>
+<div class="base-navigation">
+    <div class="navigation-item"><span>主页</span></div>
+    <div class="navigation-item"><span>归档</span></div>
+    <div class="navigation-item"><span>关于</span></div>
+</div>
+<div class="translation-container">
+    <div class="translation-item">
+        <a href="http://www.jianshu.com/p/9cc7d98f9004">Effective Java for Android</a>
+    </div>
+</div>
+<div class="base-footer">
+    <p>© 2017 One_mighty. All rights reserved | Design by
+        <a title="website" href="http://www.lizihanglove.website">
+            lizihanglove
+        </a>
+    </p>
+</div>
 
+<script>
+    var containerHeight = window.document.body.clientHeight;
+    $(".blog-container").css("height", containerHeight);
+</script>
 </body>
 </html>

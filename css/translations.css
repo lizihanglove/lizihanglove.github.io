@@ -1,0 +1,14 @@
+.translation-container {
+    background: #eeeeee;
+    text-align: center;
+    min-height: 800px;
+    display: block;
+    padding-top: 20px;
+}
+
+.translation-item {
+    float: left;
+    width: 50%;
+    height:5%;
+    background: whitesmoke;
+}
